@@ -1,7 +1,7 @@
 # Guia Prático do Portal de Demandas da SEGER - Caixa Econômica Federal
 
 ## 📒 Descrição
-Este e-book de 3 páginas apresenta um guia completo e didático sobre o uso do Portal de Demandas da SEGER da Caixa Econômica Federal. Ele foi desenvolvido para auxiliar os colaboradores a utilizarem essa ferramenta de forma eficiente, otimizando processos e melhorando a gestão de demandas.
+Este e-book de 4 páginas apresenta um guia completo e didático sobre o uso do Portal de Demandas da SEGER da Caixa Econômica Federal. Ele foi desenvolvido para auxiliar os colaboradores a utilizarem essa ferramenta de forma eficiente, otimizando processos e melhorando a gestão de demandas.
 
 ## 🤖 Tecnologias Utilizadas
 -Sistema interno da Caixa Econômica Federal para referências e dados;
