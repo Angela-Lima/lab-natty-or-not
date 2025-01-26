@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Guia Prático do Portal de Demandas da SEGER - Caixa Econômica Federal
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 3 páginas apresenta um guia completo e didático sobre o uso do Portal de Demandas da SEGER da Caixa Econômica Federal. Ele foi desenvolvido para auxiliar os colaboradores a utilizarem essa ferramenta de forma eficiente, otimizando processos e melhorando a gestão de demandas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+-Sistema interno da Caixa Econômica Federal para referências e dados;
+-IA Generativa ChatGPT para a estruturação e revisão do conteúdo;
+-Ferramentas do Microsoft Office para edição e formatação final.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O desenvolvimento deste e-book seguiu as seguintes etapas:
+Pesquisa e Levantamento de Informações: Foram coletados dados oficiais sobre o Portal de Demandas da SEGER;
+Roteirização: Utilizei o ChatGPT para organizar as informações de forma clara e didática;
+Edição e Finalização: A montagem final do e-book foi feita nas Ferramentas do Microsoft Office, garantindo um formato acessível e bem estruturado.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+🚀 Resultados
+Este e-book proporciona aos leitores um entendimento abrangente sobre o Portal de Demandas da SEGER, com um passo a passo prático, dicas para utilização eficiente e respostas para as dúvidas mais comuns. Ele visa melhorar a experiência do usuário e aumentar a produtividade no uso da ferramenta.
+[LINK PARA O E-BOOK AQUI](https://drive.google.com/file/d/1pQ7-O6ye9G_jmntnvwWmqrt0jSqaV463/view?usp=drive_link)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+💭 Reflexão
+Criar este e-book reforçou a importância de ferramentas digitais como o Portal de Demandas para a gestão interna na Caixa. O processo de produção também destacou como tecnologias, como a IA Generativa, podem ser utilizadas para criar materiais de alta qualidade e acessibilidade, promovendo o conhecimento e a organização.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
